@@ -18,6 +18,13 @@
 # "antennaName Tuner A 5-5.s1p" where A is changed from A-L and antennaName is
 # defined below.
 #
+# To record S11 spectra, I used a NanoVNA and the NanoVNA Saver software. Links
+# for both are included below.
+#
+# NanoVNA: https://www.amazon.com/gp/product/B07T6LXNTV/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1
+# NanoVNA Saver: https://github.com/mihtjel/nanovna-saver
+# Software Walkthrough: https://www.rtl-sdr.com/nanovnasaver-software-walkthrough-nanovna-firmware-updates-bring-1-5-ghz-max-range/
+#
 # Good luck, and happy tuning!
 #
 # Elena Long, KC1KNI
